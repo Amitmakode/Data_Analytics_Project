@@ -1,0 +1,25 @@
+branch_id,branch_name,city,state,ifsc_code,contact_number,manager_name,opened_date
+1,Andheri Branch,Mumbai,Uttarakhand,BANKMUM0001,09523779535,Gatik Sarma,2014-12-28
+2,Bandra Branch,Mumbai,Manipur,BANKMUM0002,5319506428,Taran Yogi,2007-11-21
+3,Dadar Branch,Mumbai,Madhya Pradesh,BANKMUM0003,+919734607590,Nehmat Lad,2010-10-23
+4,Connaught Place Branch,Delhi,Punjab,BANKDEL0004,05103953050,Arhaan Srinivas,2017-01-23
+5,Lajpat Nagar Branch,Delhi,Bihar,BANKDEL0005,+918775548310,Anvi Bajaj,2009-05-23
+6,Rohini Branch,Delhi,Madhya Pradesh,BANKDEL0006,02407791195,Anahita Kapur,2014-02-18
+7,Koramangala Branch,Bangalore,Uttar Pradesh,BANKBAN0007,+913741292169,Mamooty Kata,2007-06-23
+8,Indiranagar Branch,Bangalore,Arunachal Pradesh,BANKBAN0008,07879955671,Prisha Dyal,2009-09-28
+9,Whitefield Branch,Bangalore,Tripura,BANKBAN0009,0635139048,Tara Ramakrishnan,2009-12-30
+10,Hitech City Branch,Hyderabad,Maharashtra,BANKHYD0010,+917152732839,Tanya Tripathi,2021-01-22
+11,Banjara Hills Branch,Hyderabad,Madhya Pradesh,BANKHYD0011,+917641041917,Zeeshan Kaul,2011-01-02
+12,Secunderabad Branch,Hyderabad,Mizoram,BANKHYD0012,01731095885,Yasmin Dave,2012-05-26
+13,T Nagar Branch,Chennai,Uttar Pradesh,BANKCHE0013,02782313596,Darshit Wason,2013-04-29
+14,Anna Nagar Branch,Chennai,Tamil Nadu,BANKCHE0014,06676700205,Ranbir Trivedi,2013-11-20
+15,Adyar Branch,Chennai,Arunachal Pradesh,BANKCHE0015,+913336662833,Aayush Zachariah,2015-10-06
+16,Kothrud Branch,Pune,Rajasthan,BANKPUN0016,1088498115,Myra Halder,2019-09-06
+17,Wakad Branch,Pune,Jharkhand,BANKPUN0017,04180939705,Inaaya  Varkey,2019-09-29
+18,Hinjewadi Branch,Pune,West Bengal,BANKPUN0018,8103930629,Nishith Wason,2011-12-27
+19,Park Street Branch,Kolkata,Meghalaya,BANKKOL0019,2694543956,Hiran Kar,2008-08-11
+20,Salt Lake Branch,Kolkata,Himachal Pradesh,BANKKOL0020,+915319913228,Chirag Subramanian,2011-09-08
+21,Howrah Branch,Kolkata,Haryana,BANKKOL0021,+917318015168,Kashvi Chandra,2019-02-17
+22,CG Road Branch,Ahmedabad,Telangana,BANKAHM0022,08361564882,Kashvi Krish,2020-04-14
+23,Satellite Branch,Ahmedabad,Telangana,BANKAHM0023,02617664976,Ehsaan Sami,2018-12-03
+24,Navrangpura Branch,Ahmedabad,Jharkhand,BANKAHM0024,03724599616,Nirvaan Sekhon,2016-04-17
